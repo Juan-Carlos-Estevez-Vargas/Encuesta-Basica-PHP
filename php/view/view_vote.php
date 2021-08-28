@@ -1,3 +1,4 @@
+<!--    Opciones del formulario     -->
 <input type="radio" name="lenguaje" id="" value="c"> C <br>
 <input type="radio" name="lenguaje" id="" value="c++"> C++ <br>
 <input type="radio" name="lenguaje" id="" value="java"> Java <br>

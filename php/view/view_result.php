@@ -1,5 +1,6 @@
 <div class="opcion">
     <?php
+        //Anchura de la barra de porcentaje
         $widthBar = $percent * 5;
         $style = 'barra';
 

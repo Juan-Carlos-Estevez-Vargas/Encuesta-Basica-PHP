@@ -1,11 +1,13 @@
 <?php
     class DB{
+        //Variables para conectar con la base de datos
         private $host;
         private $db;
         private $user;
         private $pass;
         private $charset;
 
+        //Constructor de la clase
         public function __construct(){
             $this->host = 'localhost';
             $this->db = 'encuesta';
@@ -14,6 +16,7 @@
             $this->charset = 'utf8';
         }
 
+        //Método para realizar la conexión por PDO
         public function connect(){
             try{
                 $connection = "mysql:host=" . $this->host . ";dbname=" . $this->db . ";charset=" . $this->charset;
