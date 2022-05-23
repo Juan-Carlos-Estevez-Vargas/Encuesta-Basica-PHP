@@ -1,4 +1,4 @@
-# Encuesta Básica PHP
+# Encuesta Básica en PHP
 
 ![Encuesta](https://user-images.githubusercontent.com/85718854/131224107-604bbb00-aac0-4bb8-ab61-53170a25c7bb.png)
 ![Porcentaje lenguajes](https://user-images.githubusercontent.com/85718854/131224108-07da9152-fd1b-4acb-8252-8a61951a63d2.png)
@@ -14,6 +14,7 @@ En este repositorio se encuentran almacenados los archivos necesarios para crear
 
 # Mis redes sociales
 
-  * [Canal de Youtube](https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ)
-  * [Instagram](https://instagram.com/juankestevez?igshid=1b8l23wmuja5n)
-  * [Facebook](https://www.facebook.com/juancarlos.estevezvargas.98)
+ <a href="https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="30" width="40" /></a> 
+<a href="https://instagram.com/juankestevez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juankestevez" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/juan-carlos-estevez-vargas-4abb8b14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-carlos-estevez-vargas-4abb8b14a/" height="30" width="40" /></a> 
+ <a href="https://codepen.io/juan-carlos-estevez-vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juan-carlos-estevez-vargas" height="30" width="40" /></a>
